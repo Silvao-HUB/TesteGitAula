@@ -5,4 +5,7 @@ let soma1 = parseFloat(prompt('Informe o segundo número para somar: '));
 
 var resultado= (soma + soma1);
 console.log('O resultado da sua conta  salva é: ', resultado)
+console.log('O resultado da sua conta  salva é: ', resultado)
+console.log('O resultado da sua conta  salva é: ', resultado)
+
 
